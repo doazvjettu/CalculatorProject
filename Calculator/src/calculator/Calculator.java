@@ -2,6 +2,6 @@ package calculator;
 
 public class Calculator {
 	public static void main(String[] args) {
-		System.out.println("Hi there x");
+		System.out.println("Hi there xx");
 	}
 }
